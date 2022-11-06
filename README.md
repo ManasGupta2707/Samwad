@@ -6,7 +6,7 @@ Teen depression is a serious mental health problem that causes a persistent feel
 Issues such as peer pressure, academic expectations and changing bodies can bring a lot of ups and downs for teens. But for some teens, the lows are more than just temporary feelings — they're a symptom of depression.Teen depression isn't a weakness or something that can be overcome with willpower — it can have serious consequences and requires long-term treatment. For most teens, depression symptoms ease with treatment such as medication and psychological counseling.However, most of them are not able to convey their problems to anyone due to various reasons like embarrasment,nervousness etc and hence they suffer.
 
 ## The Solution
-Our software "SAMWAD" as the name suggests solves this communication gap between the students and their mentors by maintaining their anonymity.Our idea proposes that every student in an institution should fill the psychometric test which will be in the google forms format.The questions have been prepared after a lot of research and are evaluated using specialised algorithms and with appropriate data collection, can be substitued using Neural Networks.Once the evaluation is completed,a detailed analysis and a list of activities,motivational video specific to a class is provided to the respective teacher.
+Our software, "SAMWAD," as the name suggests, solves this communication gap between the students and their mentors by maintaining their anonymity. Our idea is that every student in an institution should fill out the psychometric test, which will be in Google Forms format. The questions have been prepared after a lot of research and are evaluated using specialised algorithms that, with appropriate data collection, can be substituted using neural networks. Once the evaluation is completed, a detailed analysis and list of activities are provided to the respective teacher, along with a recommended list of movies, books, and music designed specifically to benefit the students' mental health in the long run.
 
 The software generates a Happiness score for each institution on the basis of the survey they take from their students.This score provides a scale for judging various instituions on the basis of their comprehensive measure of well being of its students.So they will make evry effort to be on the top of the rankings and hence adhere to practices beneficial for its students.
 
@@ -24,10 +24,10 @@ https://user-images.githubusercontent.com/112627130/200156464-cb657afa-81d5-4b55
 
 ## Team Name: SHADOW CODERS
 #### MEMEBERS: 
-              KUSHAGRA ARORA
-              MANAS GUPTA
-              MANAS KAPOOR
-              POURUSH SACHDEVA
+      KUSHAGRA ARORA    https://www.linkedin.com/in/kushagra-arora-69a740229
+      MANAS GUPTA       https://www.linkedin.com/in/manas-gupta-951250229
+      MANAS KAPOOR      https://www.linkedin.com/in/manas-kapoor-a9b17523b
+      POURUSH SACHDEVA  https://www.linkedin.com/in/pourush-sachdeva
 
 
 
