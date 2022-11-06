@@ -1,8 +1,9 @@
 # Samwad
 
 ## The Problem
+Teen depression is a serious mental health problem that causes a persistent feeling of sadness and loss of interest in activities. It affects how your teenager thinks, feels and behaves, and it can cause emotional, functional and physical problems. Although depression can occur at any time in life, symptoms may be different between teens and adults.
 
-In today’s time, the discussion on mental wellbeing has become vital. This becomes even more important when it comes to teenagers. 20% of adolescents may experience a mental health problem in any given year. 50% of mental health problems are established by age 14 and 75% by age 24.However, most of them are not able to convey their problems to anyone due to various reasons like embarrasment,nervousness etc and hence they suffer.
+Issues such as peer pressure, academic expectations and changing bodies can bring a lot of ups and downs for teens. But for some teens, the lows are more than just temporary feelings — they're a symptom of depression.Teen depression isn't a weakness or something that can be overcome with willpower — it can have serious consequences and requires long-term treatment. For most teens, depression symptoms ease with treatment such as medication and psychological counseling.However, most of them are not able to convey their problems to anyone due to various reasons like embarrasment,nervousness etc and hence they suffer.
 
 ## The Solution
 Our software "SAMWAD" as the name suggests solves this communication gap between the students and their mentors by maintaining their anonymity.Our idea proposes that every student in an institution should fill the psychometric test which will be in the google forms format.The questions have been prepared after a lot of research and are evaluated using specialised algorithms and with appropriate data collection, can be substitued using Neural Networks.Once the evaluation is completed,a detailed analysis and a list of activities,motivational video specific to a class is provided to the respective teacher.
