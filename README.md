@@ -11,8 +11,11 @@ The software generates a Happiness score for each institution on the basis of th
 In a huge diversified country such as India,the classroom consists of students coming from various socio-economic backgrounds,our surveys also cover questions on discrimination and informs the concerned teacher that such a practice is taking place in the class.
 
 Our software flow is as shown:-
+
 ![alt text](https://raw.githubusercontent.com/phoenix6017/Samwad/main/flow.png)
+
 #### Link to presentation
+https://docs.google.com/presentation/d/1L-goWeFMVbxr2kf16kdWjWKfx_Mrl7o6/edit?usp=drivesdk&ouid=107975898740653682456&rtpof=true&sd=true
 
 #### Demo
 https://user-images.githubusercontent.com/112627130/200156464-cb657afa-81d5-4b55-849c-71951902983b.mp4
