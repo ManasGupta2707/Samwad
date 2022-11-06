@@ -1,4 +1,4 @@
-
+# Change all image and file locations according to your device
 from tkinter import *
 import sqlite3
 from PIL import Image, ImageTk
