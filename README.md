@@ -16,9 +16,10 @@ Our software flow is as shown:-
 
 #### Link to presentation
 https://docs.google.com/presentation/d/1L-goWeFMVbxr2kf16kdWjWKfx_Mrl7o6/edit?usp=drivesdk&ouid=107975898740653682456&rtpof=true&sd=true
-
+[ppt (1).pptx](https://github.com/phoenix6017/Samwad/files/9945234/ppt.1.pptx)
 #### Demo
 https://user-images.githubusercontent.com/112627130/200156464-cb657afa-81d5-4b55-849c-71951902983b.mp4
+
 
 
 
