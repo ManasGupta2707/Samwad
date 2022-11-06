@@ -370,7 +370,7 @@ def final():
 
             # Position image
             l1.place(x=0, y=0)
-            image2 = Image.open("C:/Users/Manas Kapoor/Desktop/hackathon/1.png").resize((450,450))
+            image2 = Image.open("C:/Users/Manas Kapoor/Desktop/hackathon/3.png").resize((450,450))
             test = ImageTk.PhotoImage(image2)
 
             l2 = Label(image=test)
@@ -385,7 +385,7 @@ def final():
             l3.image = test1
             # Position image
             l3.place(x=780, y=320)
-            image4 = Image.open("C:/Users/Manas Kapoor/Desktop/hackathon/3.png").resize((450,450))
+            image4 = Image.open("C:/Users/Manas Kapoor/Desktop/hackathon/1.png").resize((450,450))
             test2 = ImageTk.PhotoImage(image4)
 
             l4 = Label(image=test2)
@@ -396,12 +396,12 @@ def final():
             
             ana.geometry("1920x1080") #dimensions for new window
             ana.title("OUTCOME") #title for the window
-            l1 = Label(ana,text=str(round(temp_2*100,2))+"%",font="times 20")
+            l1 = Label(ana,text=str(round(temp_3*100,2))+"%",font="times 20")
             l1.place(x=1575,y=800)
             
             l2 = Label(ana,text=str(round(temp_1*100,2))+"%",font="times 20")
             l2.place(x=335,y=800)            
-            l3 = Label(ana,text=str(round(temp_3*100,2))+"%",font="times 20")
+            l3 = Label(ana,text=str(round(temp_2*100,2))+"%",font="times 20")
             l3.place(x=945,y=800)
             l4 = Label(ana,text="HAPPINESS INDEX = "+str(round(1-(temp_1+temp_2+temp_3)/3,2)),font="times 20 bold")
             l4.place(x=200,y=900)
