@@ -22,8 +22,12 @@ https://docs.google.com/presentation/d/1L-goWeFMVbxr2kf16kdWjWKfx_Mrl7o6/edit?us
 #### Demo
 https://user-images.githubusercontent.com/112627130/200156464-cb657afa-81d5-4b55-849c-71951902983b.mp4
 
-
-
+## Team Name: SHADOW CODERS
+#### MEMEBERS: 
+              KUSHAGRA ARORA
+              MANAS GUPTA
+              MANAS KAPOOR
+              POURUSH SACHDEVA
 
 
 
