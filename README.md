@@ -8,7 +8,7 @@ Issues such as peer pressure, academic expectations and changing bodies can brin
 ## The Solution
 Our software, "SAMWAD," as the name suggests, solves this communication gap between the students and their mentors by maintaining their anonymity. Our idea is that every student in an institution should fill out the psychometric test, which will be in Google Forms format. The questions have been prepared after a lot of research and are evaluated using specialised algorithms that, with appropriate data collection, can be substituted using neural networks. Once the evaluation is completed, a detailed analysis and list of activities are provided to the respective teacher, along with a recommended list of movies, books, and music designed specifically to benefit the students' mental health in the long run.
 
-The software generates a Happiness score for each institution on the basis of the survey they take from their students.This score provides a scale for judging various instituions on the basis of their comprehensive measure of well being of its students.So they will make evry effort to be on the top of the rankings and hence adhere to practices beneficial for its students.
+The software generates a happiness score for each institution based on the survey they take from their students. This score provides a scale for judging various institutions on the basis of their comprehensive measures of the well-being of their students. So they will make every effort to be at the top of the rankings and hence adhere to practises beneficial for their students.
 
 In a huge diversified country such as India,the classroom consists of students coming from various socio-economic backgrounds,our surveys also cover questions on discrimination and informs the concerned teacher that such a practice is taking place in the class.
 
@@ -21,6 +21,9 @@ https://docs.google.com/presentation/d/1L-goWeFMVbxr2kf16kdWjWKfx_Mrl7o6/edit?us
 
 #### Demo
 https://user-images.githubusercontent.com/112627130/200156464-cb657afa-81d5-4b55-849c-71951902983b.mp4
+
+#### Psychometric Test Link
+https://forms.gle/zkYdVXRhssKGctVX8
 
 ## Team Name: SHADOW CODERS
 #### MEMEBERS: 
