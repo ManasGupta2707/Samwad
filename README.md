@@ -29,7 +29,7 @@ https://forms.gle/zkYdVXRhssKGctVX8
 ![alt text](https://raw.githubusercontent.com/phoenix6017/Samwad/main/Login.png)
 
 ## Team Name: SHADOW CODERS
-#### MEMEBERS: 
+#### MEMBERS: 
       KUSHAGRA ARORA    https://www.linkedin.com/in/kushagra-arora-69a740229
       MANAS GUPTA       https://www.linkedin.com/in/manas-gupta-951250229
       MANAS KAPOOR      https://www.linkedin.com/in/manas-kapoor-a9b17523b
